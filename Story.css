@@ -1,0 +1,439 @@
+body{
+    background-image:url(Fondo.jpg)
+}
+
+body div{
+    width: 830px;
+    height: 4380px;
+    background-color: gray;
+    margin: auto;
+    padding-top: 15px;
+}
+
+body div div{
+    width: 805px;
+    height: 4350px;
+    background-color: darkgray;   
+}
+    
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    text-shadow: 5px 2px rgb(129, 129, 129);
+    text-align: center;
+}
+.Aside_1{
+    background-color: gray;
+    width: 315px;
+    height: 290px;
+    display: grid;
+    margin-left: 30px;
+    float: left;
+}
+.img1{
+    padding: 15px;
+}
+
+.Text_1{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 95px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_2{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 290px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img2{
+    padding: 10px;
+}
+
+.Text_2{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 110px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_3{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img3{
+    padding: 10px;
+}
+
+.Text_3{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 110px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_4{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img4{
+    padding: 12px;
+    width: 290px;
+}
+
+.Text_4{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_5{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img5{
+    padding: 12px;
+    width: 288px;
+}
+
+.Text_5{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_6{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img6{
+    padding: 12px;
+    width: 288px;
+}
+
+.Text_6{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_7{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img7{
+    padding: 12px;
+    width: 288px;
+}
+
+.Text_7{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_8{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img8{
+    padding: 12px;
+    width: 288px;
+}
+
+.Text_8{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_9{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img9{
+    padding: 12px;
+    width: 287px;
+}
+
+.Text_9{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_10{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img10{
+    padding: 12px;
+    width: 287px;
+}
+
+.Text_10{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_11{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img11{
+    padding: 12px;
+    width: 287px;
+}
+
+.Text_11{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_12{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img12{
+    padding: 12px;
+    width: 287px;
+}
+
+.Text_12{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_13{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img13{
+    padding: 12px;
+    width: 280px;
+}
+
+.Text_13{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+.Aside_14{
+    float: left;
+    background-color: gray;
+    width: 315px;
+    height: 285px;
+    display: grid;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img14{
+    padding: 12px;
+    width: 287px;
+}
+
+.Text_14{
+    background-color: gray;
+    width: 400px;
+    height: 100px;
+    float: left;
+    margin-top: 75px;
+    margin-bottom: 100px;
+    margin-left: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Andada Pro', serif;
+    text-align: center;
+}
+
+footer{
+    background-color: gray;
+    height: 50px;
+    width: 750px;
+    margin-left: 30px;
+    margin-right:30px;
+    margin-top: 25px;
+    float: left;
+}
+
+footer p{
+    font-family: 'Lobster', cursive; 
+    text-align: center;
+}
